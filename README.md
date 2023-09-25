@@ -1,9 +1,9 @@
-# React + Vite
+# TheGoodGameTheory Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Done: Create a small React app to display data from https://api.punkapi.com/v2/beers 
+Done: Display the data in cards with images 
+Done: Add the search functionality 
+Done: Write clean code with standard practices 
+Done: Push the code on your GitHub public repo and share the link
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# thegoodgametheory-assignment" 
+Live Link: https://graceful-halva-b0f707.netlify.app/
